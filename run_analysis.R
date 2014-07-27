@@ -1,7 +1,7 @@
 ## run_analysis.R - Project assignment for the Coursera course "Getting & Cleaning Data"
 ## by Kelvin Chu 
 ## created     : 07/10/2014
-## last updated: 07/11/2014
+## last updated: 07/25/2014
 #  ====================================================================================== 
 # change default directory to the working directory
 setwd("C:/ZKelvin/50 Professional/80 Technical Info/01 Data Science/Courses/01 Coursera Data Science Course/03 Getting & Cleaning Data/Assignments/UCI HAR Dataset")
