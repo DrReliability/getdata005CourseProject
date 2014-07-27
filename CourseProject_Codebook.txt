@@ -65,6 +65,8 @@ Example of Feature Variable:
 - _mean		mean value
 - _X		for the X direction
 
+All measurements have been normalized, so they are all in per unit value (between -1.0 to 1.0) and do not have any units.
+
 List of all 561-feature variables:
 
 1 time_BodyAcc_mean_X
