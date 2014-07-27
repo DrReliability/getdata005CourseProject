@@ -17,12 +17,13 @@ download [Data for the Course Project](https://d396qusza40orc.cloudfront.net/get
 ###Description of the data
 **Measurement taken:**  
 
-------------------------- |---------------------------------------------------  
-Number of subjects        |: 30  
-Age range                 |: 19-48 year  
-Number of activities      |: 6 per person  
-Measurement taken         |: X-, Y-, Z-axial linear acceleration & angular velocity   
-
+|      Description         | Range 
+|--------------------------|--------------------------------------------------------|
+|Number of subjects        |: 30                                                    |
+|Age range                 |: 19-48 year                                            |
+|Number of activities      |: 6 per person                                          |
+|Measurement taken         |: X-, Y-, Z-axial linear acceleration & angular velocity|  
+|                          |                                                        |
 
 ******  
 Both measurements are measured for the 3-axis.  The acceleration signal is further separated into gravitational and body motion components.  A number of variables are then calcuated for the time and frequency domain.  
