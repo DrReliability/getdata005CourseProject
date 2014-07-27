@@ -106,7 +106,7 @@ Six (6) activity types were defined for this measurement experiment.  These are:
 5. STANDING
 6. LAYING  
 
-**Subjecty variable**  
+**Subject variable**  
 Thirty (30) volunteers were involved in this experiment.  They were labeled as 1 to 30.
 
 **Variables used in the R script**  
