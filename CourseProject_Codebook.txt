@@ -1,5 +1,7 @@
 Code Book for the Getting and Cleaning Data Course Project
 Activity and subject variables:
+      Length    Available Codes
+      ------    ---------------
 y	1	Activity Code
 		1 .WALKING
 		2 .WALKING_UPSTAIRS
@@ -12,7 +14,8 @@ sub	2	Subject Code
 		1..30	Subject identification code  
 		
 Feature Variable Interpretation:
-  			Code		Description
+    Measurement Type  	Code		Description
+    -----------------  ---------------  ------------------------------------------------------------------
 1. 	domain  	        	Time or Frequency domain measurements 
 			time_		Time domain measurement	
                 	freq_		Frequency domain measurement (FFT applied)
@@ -55,6 +58,13 @@ Feature Variable Interpretation:
 					(X,gravityMean)
 					(Y,gravityMean)
 					(Z,gravityMean)
+Example of Feature Variable:
+  time_BodyAcc_mean_X   
+- time_		Time measurement
+- BodyAcc       Body acceleration measurement
+- _mean		mean value
+- _X		for the X direction
+
 List of all 561-feature variables:
 
 1 time_BodyAcc_mean_X
