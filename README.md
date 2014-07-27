@@ -127,7 +127,7 @@ Output datasets:
 ###The Deliverable
 This course requires the student to create an independent tidy data set with the average of each variable for each activity and each subject (the second data set described in the guideline).  This document describes the process of obtaining this tidy data set from the input data given by the instructor.
 
-A R script which generates this tidy data set, README markdown file (this document) and a code book explaining the variables are available in the github repo directory submitted.  
+A R script which generates this tidy data set, README markdown file (this document, READ.md) and a code book (CourseProject_Codebook.txt) explaining the variables are available in the github repo directory submitted.  
 
 ###The Approach
 The project guideline suggested a 5-step approach to come up with the tidy dataset that includes the average of each variable for each activity and each subject.  
