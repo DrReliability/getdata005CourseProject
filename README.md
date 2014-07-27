@@ -25,7 +25,6 @@ download [Data for the Course Project](https://d396qusza40orc.cloudfront.net/get
 |Measurement taken         |: X-, Y-, Z-axial linear acceleration & angular velocity|  
 |                          |                                                        |
 
-******  
 Both measurements are measured for the 3-axis.  The acceleration signal is further separated into gravitational and body motion components.  A number of variables are then calcuated for the time and frequency domain.  
 
 A full listing of the variables and an explanation of variables are provided in the code book.  
